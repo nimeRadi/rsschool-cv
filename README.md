@@ -1,1 +1,1 @@
-# [rsschool-cv](https://nimeRadi.github.io/rsschool-cv/cv "link to my cv")
+# [rsschool-cv](https://nimeRadi.github.io/rsschool-cv/ "link to my cv")
