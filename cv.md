@@ -1,21 +1,21 @@
-#Grigory Obukhov#
+#Grigory Obukhov
 *****
-##Contacts##
-**Telephone** +7(666)969-69-69
+##Contacts
+**Telephone** +7(920)951-23-45
 **Email** mr.klesker@gmail.com
 **Telegram** gangrouz
 *****
-##About##
+##About
 Hardworker. Monkeyjober.
-##Skills##
+##Skills
 None
-##Examples##
+##Examples
 None
-##Experience##
+##Experience
 **NONE**
-##Education##
+##Education
 **Colledge**
-##Languages##
+##Languages
 **English** - Elementary
 **Russian** - Native
 **Japanese** - Elementary
